@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    font-size: 35px;
+    
+}
+h3 {
+    font-size: 20px;
+}
+.titulos {
+    color: #005677;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    letter-spacing: 3px;
+}
+span {
+    font-weight: bold;
+}
+footer {
+    background-color: #005677;
+    text-align: center;
+    margin-top: 284px;
+    padding-top: 11px;
+    padding-bottom: 9px;
+    
+}
+body {
+    text-indent: 15px;
+}
+ul {
+    list-style-type: none;
+    line-height: 25px;
+}
+
+.DatosP {
+    list-style-type: disc;
+    font-style: italic;
+}   
+footer span{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+header {
+    background-color:#E6E6E6;
+    ;
+
+}
+header img {
+    margin: auto;
+    display: block;
+
+}
+footer img {
+    margin-left: 26px;
+}
+.Sangria {
+    text-indent: 54px;
+}
+
